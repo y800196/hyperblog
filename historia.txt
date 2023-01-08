@@ -1,4 +1,4 @@
-esta es una historia de prueba
+esta es una historia de prueba version 2
 
 tengo una empresa llamada patagonia web hostin
 
@@ -9,3 +9,5 @@ trabajo en ypf
 y estoy tratando de conseguir nuevos puestos
 
 Y cambiando de tema, ya tenemos cubiertos y ollas nuevas
+
+y esta es la última linea agregada
